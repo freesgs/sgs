@@ -2,7 +2,7 @@ import gui.frame.SGSBeforeGameFrame;
 import log.Log;
 
 /**
- * Created by Free on 2014/12/30.
+ * Created by Free on 2015/01/11.
  */
 public class Main {
     public static final String CLASS = Thread.currentThread().getStackTrace()[1].getClassName();
